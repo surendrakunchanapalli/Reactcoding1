@@ -1,0 +1,17 @@
+.bg-container {
+  background-color: #0f172a;
+  height: 100vh;
+  padding: 30px;
+  text-align: center;
+}
+
+.heading {
+  color: white;
+  font-family: Roboto;
+  font-size: 32px;
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+}
